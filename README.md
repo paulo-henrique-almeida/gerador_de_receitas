@@ -10,7 +10,7 @@
  ## ⚙ Como funciona
  - Pesquise o nome de algum prato (em inglês) ou gere um prato aleatório;
  - Veja uma imagem do prato e os seus ingredientes;
- - Clique em "ver receitar" para ver o modo de preparo;
+ - Clique em "ver receita" para ver o modo de preparo;
  - Feche a janela de receita;
  - Volte para pesquisar outro prato.
 
