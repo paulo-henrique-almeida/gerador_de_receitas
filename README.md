@@ -28,3 +28,6 @@ Com a união desses dois acontecimentos, tive a ideia de desenvolver um gerador 
 
 ## ⭐ Avaliações
 A API está funcionando muito bem para o seu propósito; ser totalmente em inglês ajuda muito.
+
+"Achei muito massa"
+~ @ml-limx
